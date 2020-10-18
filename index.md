@@ -53,7 +53,7 @@
 		<div class="row justify-content-center text-center">
 			<div class="col-100 py-5">
 				<br><br><br>
-				<h1>Blast byte</h1>
+				<h1>Byte blast</h1>
 			</div>
 		</div>
 	</div>
