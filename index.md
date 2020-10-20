@@ -63,7 +63,7 @@
 		<div class="row justify-content-center py-5">
 			<div class="col-lg-6">
 				<h4>The problem </h4>
-				<p>People have the need to be entertained for brief periods, wether on the subway, or in the bus station, or at the restaurant while waiting for the order. There is the need for an entertaining game that can be played for just a few seconds or minutes and still progress. There are many available games which can do that but the average playing time is low and the global market is so big that there is still a big part of it ready for new products.</p>
+				<p>People have the need to be entertained for brief periods, whether on the subway, or in the bus station, or at the restaurant while waiting for the order. There is the need for an entertaining game that can be played for just a few seconds or minutes and still progress. There are many available games which can do that but the average playing time is low and the global market is so big that there is still a big part of it ready for new products.</p>
 			</div>
 			<div class="col-lg-3"><img width="320" height="320" class="img-fluid" src="img/milestone1/the_problem.jpg"></div>
 		</div>
